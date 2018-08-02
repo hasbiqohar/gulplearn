@@ -1,0 +1,23 @@
+{
+  "name": "gulplearn",
+  "version": "1.0.0",
+  "description": "learning gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasbiqohar/gulplearn.git"
+  },
+  "author": "hasbi qohar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasbiqohar/gulplearn/issues"
+  },
+  "homepage": "https://github.com/hasbiqohar/gulplearn#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
